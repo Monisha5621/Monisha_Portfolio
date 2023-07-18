@@ -1,7 +1,8 @@
 # Monisha_Portfolio
-Portfolio of Analytics and Data Science Projects
+# Portfolio of Analytics and Data Science Projects
 ## Project 1 : ChatBot-Dialogflow
 ### Link: [ChatBot-URL](https://bot.dialogflow.com/71796935-8687-4cfc-a773-38376df5f54a)
+### Documentation: [PharmTalk Document](https://docs.google.com/document/d/1g2iylnzHtvkuOqmqD1ualHpaCBeAjBUr7-XHX8N5szY/edit)
 #### Introduction 
 A chatbot is software that simulates human-like conversations with users via text messages on chat. 
 Its key task is to help users by providing answers to their customers. 
@@ -20,8 +21,16 @@ The questions are simple.
 The intents have been clearly mentioned.
 A total of 7 intents were made, defining parameters wherever necessary.
 
-#### Conclusion 
-The ChatBot has been made, though it is functional, It needs additional resources to be deployed successfully. 
-There are many things to explore like in - follow up intents and having a complete integration with google cloud and other apps. 
-Nevertheless, It was quite easy to navigate around dialog-flow. For sure it is a great tool to make chatbots best suited for business needs. 
+## Project 2 : Sentiment Analysis - #taylorswift
+### Code : [Notebook Link](https://github.com/Monisha5621/Data-Science-Portfolio/blob/main/Sentiment_Analysis_taylorswift.ipynb)
+### Documentation : [Project Document](https://docs.google.com/document/d/1Qdlo-OUdgd1B6nbmZAd4qO1wh92CEjmr9H9z0mjenyw/edit?usp=sharing)
+#### Introduction 
+## Project 3 : Text Analytics - Extractive Summarization of Court Judgement Documents
+### Code : [Notebook Link](https://github.com/Monisha5621/Data-Science-Portfolio/blob/main/MBA_Final_Project_Text_Analytics.ipynb)
+### Documentation : [Overview of Project](https://docs.google.com/presentation/d/1OjXnAGMLrZRxGgNqb6zGu5EgGOrIKjq_hXQrmcgXaZI/edit?usp=sharing)
+#### Introduction 
+
+
+
+
 
