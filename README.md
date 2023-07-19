@@ -1,6 +1,6 @@
 # Monisha's Portfolio
 # Portfolio of Analytics and Data Science Projects
-# Hi, I am Monisha, an MBA Business Analytics Grad and an aspring Data Professional
+
 ## Project 1 : Stanford University - Code in place: Harry Potter themed Final Project
 ### Try it : [Deployment link](https://codeinplace.stanford.edu/cip3/share/H9JqXbU5PWO7UpBSw1vw)
 ### Certficate : [Certificate from Stanford University](https://codeinplace.stanford.edu/cip3/certificate/9ultll)
