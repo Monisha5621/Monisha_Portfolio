@@ -25,9 +25,9 @@ Cosine similarity metric was used to compare each judgement summary with its ori
 #### Summary
 Taylor Swift is a famous pop-star and I scraped tweets using twitter API on the hashtag #taylorswift. I carried out a sentiment analysis on these tweets and the results, interpretations were very interesting. one of the insights were the tickets of concert ERAS tour,I can inferred that the organization that is selling tickets for the concert “TicketMaster” has been in bad press, and the issues faced by desperate fans who were tweeting out.
 
-![](https://github.com/Monisha5621/Monisha_Portfolio/blob/main/images/1.png) 
+![](/images/1.png) 
 
-![](https://github.com/Monisha5621/Monisha_Portfolio/blob/main/images/2.png)
+![](/images/2.png)
 
 ## Project 4 : ChatBot-Dialogflow
 ### Link: [ChatBot-URL](https://bot.dialogflow.com/71796935-8687-4cfc-a773-38376df5f54a)
