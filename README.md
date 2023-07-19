@@ -1,12 +1,13 @@
-# Monisha_Portfolio
+# Monisha's Portfolio
 # Portfolio of Analytics and Data Science Projects
+# Hi, I am Monisha, an MBA Business Analytics Grad and an aspring Data Professional
 ## Project 1 : Stanford University - Code in place: Harry Potter themed Final Project
 ### Try it : [Deployment link](https://codeinplace.stanford.edu/cip3/share/H9JqXbU5PWO7UpBSw1vw)
 ### Certficate : [Certificate from Stanford University](https://codeinplace.stanford.edu/cip3/certificate/9ultll)
 #### Purpose
 This project has been submitted for the certification requirement. I have used Canvas library and coded in python. I chose Harry potter theme, and the gist of the project is to answer few questions and the user gets sorted into one of the four Harry Potter/ Hogwart Houses. The project is simple and I had fun working with the canvas library. 
 
-<img src="/images/sorting%20hat.jpg" width="400" height ="200">
+ <img src="/images/sorting%20hat.jpg" width="400" height ="200">
 
 ## Project 2 : Text Analytics - Extractive Summarization of Court Judgement Documents
 ### Code : [Notebook Link](https://github.com/Monisha5621/Data-Science-Portfolio/blob/main/MBA_Final_Project_Text_Analytics.ipynb)
