@@ -6,7 +6,6 @@
 #### Purpose
 This project has been submitted for the certification requirement. I have used Canvas library and coded in python. I chose Harry potter theme, and the gist of the project is to answer few questions and the user gets sorted into one of the four Harry Potter/ Hogwart Houses. The project is simple and I had fun working with the canvas library. 
 
-<img src="https://github.com/Monisha5621/Monisha_Portfolio/blob/main/images/sorting%20hat.jpg" width="400" height="200">
 
 ## Project 2 : Text Analytics - Extractive Summarization of Court Judgement Documents
 ### Code : [Notebook Link](https://github.com/Monisha5621/Data-Science-Portfolio/blob/main/MBA_Final_Project_Text_Analytics.ipynb)
@@ -25,6 +24,7 @@ Cosine similarity metric was used to compare each judgement summary with its ori
 ### Documentation : [Project Document](https://docs.google.com/document/d/1Qdlo-OUdgd1B6nbmZAd4qO1wh92CEjmr9H9z0mjenyw/edit?usp=sharing)
 #### Summary
 Taylor Swift is a famous pop-star and I scraped tweets using twitter API on the hashtag #taylorswift. I carried out a sentiment analysis on these tweets and the results, interpretations were very interesting. one of the insights were the tickets of concert ERAS tour,I can inferred that the organization that is selling tickets for the concert “TicketMaster” has been in bad press, and the issues faced by desperate fans who were tweeting out.
+
 ![](https://github.com/Monisha5621/Monisha_Portfolio/blob/main/images/1.png) ![](https://github.com/Monisha5621/Monisha_Portfolio/blob/main/images/2.png)
 
 ## Project 4 : ChatBot-Dialogflow
